@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+venv/
+
+# Node.js modules
+node_modules/
+
+# Unity folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Audio processing generated files
+*.wav
+*.mp3
+
+# PyTorch & TensorFlow cache
+*.pt
+*.ckpt
+*.h5
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Misc
+*.bak
+*.tmp
+*.swp
